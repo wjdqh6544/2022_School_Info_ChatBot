@@ -4,7 +4,7 @@
 * MariaDB 접속 정보 및 NEIS 학교코드 수정 후 사용 가능
 * 작업 기간: 2022.03 ~ 2022.09 (고3)
 
-## Directory Item List
+### Directory Item List
 * API - RESTful API 요청에 사용됨
 * img - 스쿨버스 시간표 이미지 저장 디렉토리
 * log - 백엔드 로그 저장
