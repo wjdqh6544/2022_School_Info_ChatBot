@@ -1,0 +1,6 @@
+*** ykhs ***
+@reboot /kakaobot/start.sh
+30 4 * * 0 /kakaobot/update.sh
+
+*** root ***
+0 3 * * * reboot -f
